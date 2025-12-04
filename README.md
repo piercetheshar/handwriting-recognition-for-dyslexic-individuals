@@ -83,7 +83,4 @@ The model learns rapidly:
 - ~80% validation accuracy by epoch 5  
 - ~91% validation accuracy by final epochs  
 
----
-
-## 🗂️ Repository Structure
 
